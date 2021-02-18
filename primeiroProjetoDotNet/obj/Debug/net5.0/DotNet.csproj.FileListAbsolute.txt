@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\bin\Debug\net5.0\DotNet.exe
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\bin\Debug\net5.0\DotNet.deps.json
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.json
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\bin\Debug\net5.0\DotNet.dll
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\bin\Debug\net5.0\ref\DotNet.dll
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\bin\Debug\net5.0\DotNet.pdb
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\DotNet.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfo.cs
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\DotNet.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\DotNet.dll
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\ref\DotNet.dll
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\DotNet.pdb
+C:\Users\thiag\Desktop\DigitalInnovationOne\primeiroProjetoDotNet\DotNet\obj\Debug\net5.0\DotNet.genruntimeconfig.cache
